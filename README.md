@@ -55,7 +55,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or want to reach out regarding this project, you can contact me at [your-email@example.com].
+If you have any questions or want to reach out regarding this projec?
 
 ```
 
