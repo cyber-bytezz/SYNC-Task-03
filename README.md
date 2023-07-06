@@ -10,7 +10,7 @@
 
 ## Features
 
-- 🎵 Browse and play music tracks
+- 🎵 Browse and play music tracks [Upgrading]
 - 🎶 Create playlists
 - 🔍 Search for songs and artists
 - 🔁 Shuffle and repeat playback
