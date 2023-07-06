@@ -10,11 +10,11 @@
 
 ## Features
 
-- 🎵 Browse and play music tracks [Upgrading]
-- 🎶 Create playlists
-- 🔍 Search for songs and artists
-- 🔁 Shuffle and repeat playback
-- 🔊 Volume control
+- 🎵 Browse and play music tracks  [Upgrading......]
+- 🎶 Create playlists.             [Upgrading......]
+- 🔍 Search for songs and artists. [Upgrading......]
+- 🔁 Shuffle and repeat playback.  [Upgrading......]
+- 🔊 Volume control.               [Upgrading......]
 
 ## Installation
 
